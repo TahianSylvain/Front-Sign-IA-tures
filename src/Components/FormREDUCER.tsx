@@ -16,17 +16,3 @@ export function reducer(state: any, action: any) {
             )
     }
 }
-
-
-// function Sample() {
-//     const [name, dispatch]=useReducer(reducer, "")
-
-//     return <div className="hi">
-//         {name}
-//         <button onClick={
-//             () => dispatch({type: 'extend'})
-//         }>
-//             Click
-//         </button>
-//     </div>
-// }
