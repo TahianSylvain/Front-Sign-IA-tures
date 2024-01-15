@@ -3,7 +3,7 @@ import viteLogo from '/vite.svg'
 import "./assets/App.css"
 import { Formular } from './Components/Form'
 import "bootstrap/dist/css/bootstrap.min.css"
-import { motion } from 'framer-motion'
+import { motion } from 'framer-motion'  // webkit-animation 
 
 
 function App() {
